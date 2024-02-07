@@ -13,5 +13,5 @@ This project includes extensive testing with a total of 6 test suites covering 2
 
 
 #### Conclusion
-The majority of test cases have passed, demonstrating the reliability of the application. Would like to have a discussion over the failed ones before the passed one.
+The majority of test cases have passed, demonstrating the reliability of the application. Would like to have a discussion over the 2 failed ones before the passed cases.
 Thankyou.
