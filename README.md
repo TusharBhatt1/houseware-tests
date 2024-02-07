@@ -5,13 +5,9 @@ This project includes extensive testing with a total of 6 test suites covering 2
 ## Failed: 2 tests
 
 ## Test Suites
-Header Component - Unit Testing
-Main Component   - Integration Testing
-Index Component  - Integration Testing
-Footer Component - Unit Testing
-Input Component  - Unit Testing
-Item Component   - Unit Testing
+2 Integration Testing + 3 Unit Testings
 
-Conclusion
+
+# Conclusion
 The majority of test cases have passed, demonstrating the reliability of the application. Would like to have a discussion over the failed ones before the passed one.
 Thankyou.
