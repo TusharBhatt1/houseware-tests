@@ -9,7 +9,7 @@ This project includes extensive testing with a total of 6 test suites covering 2
 #### Failed: 2 tests
 
 #### Test Suites
-2 Integration Testings + 3 Unit Testings
+2 Integration Testings + 4 Unit Testings
 
 
 #### Conclusion
