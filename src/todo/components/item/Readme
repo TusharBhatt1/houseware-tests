@@ -1,0 +1,17 @@
+√ renders Item component with a completed todo 
+√ toggles the completion status of the todo 
+√ removes the todo
+
+Type of Testing: Unit Testing
+
+#Key Test Cases:
+
+Renders correctly with default props:
+
+Ensure that the Item component renders with the correct properties.
+Toggles item completion on checkbox click:
+
+Simulate clicking the checkbox and check if the toggleItem function is called.
+Removes item on button click:
+
+Click the "Remove" button and verify that the removeItem function is called.

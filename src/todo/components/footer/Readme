@@ -1,0 +1,19 @@
+√ renders Footer component with correct active items count and navigation links  
+√ clicking on "All" link updates the route and selected link  
+√ clicking on "Active" link updates the route and selected link
+√ clicking on "Completed" link updates the route and selected link
+√ clicking on "Clear completed" button calls the removeCompleted dispatch
+
+Type of Testing: Unit Testing
+
+#Key Test Cases:
+
+Renders correctly with active item count and navigation links:
+
+Verify that the Footer component renders with the correct active item count and navigation links.
+Updates route and selected link on navigation link click:
+
+Click on each navigation link ("All," "Active," "Completed") and check if the route is updated, and the corresponding link is selected.
+Calls removeCompleted dispatch on "Clear completed" button click:
+
+Click on the "Clear completed" button and ensure that the removeCompleted dispatch function is called.

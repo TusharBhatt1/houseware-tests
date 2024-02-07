@@ -1,0 +1,15 @@
+√ renders with default props 
+√ calls onSubmit with sanitized value on Enter key press
+√ clears input value on Enter key press
+
+
+Type of Testing: Unit Testing
+
+#Key Test Cases:
+
+Renders correctly with default props:Ensure that the Input component renders with default properties.
+
+Calls onSubmit with sanitized value on Enter key press:Simulate pressing the Enter key and check if the onSubmit function is called with a sanitized value.
+Clears input value on Enter key press:
+
+Verify that the input value is cleared after pressing the Enter key.

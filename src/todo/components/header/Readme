@@ -1,0 +1,14 @@
+√ renders Header component
+√ calls addItem function when a new todo is submitted
+√ does not call addItem function when submitting an empty todo
+
+Type of Testing: Unit Testing
+
+#Key Test Cases:
+
+Renders correctly:
+
+Ensure that the Header component renders without any errors.
+Dispatches addItem on form submission:
+
+Check if the addItem function is called when the form is submitted.
