@@ -1,7 +1,7 @@
 √ renders Footer component with correct active items count and navigation links  
 √ clicking on "All" link updates the route and selected link  
-√ clicking on "Active" link updates the route and selected link
-√ clicking on "Completed" link updates the route and selected link
+x clicking on "Active" link updates the route and selected link
+x clicking on "Completed" link updates the route and selected link
 √ clicking on "Clear completed" button calls the removeCompleted dispatch
 
 Type of Testing: Unit Testing
