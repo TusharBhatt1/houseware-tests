@@ -1,0 +1,10 @@
+ × should add a new item (10 ms)
+  √ should update an existing item (1 ms)                                        
+  √ should remove an item                                                        
+  √ should toggle an item's completion status                            
+  √ should remove all items                                                      
+  √ should toggle all items' completion status                                   
+  √ should remove all completed items         
+
+  #Type of Testing  : Unit Testing                                   
+                                        
