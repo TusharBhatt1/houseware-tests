@@ -8,6 +8,8 @@ This project includes extensive testing with a total of 6 test suites covering 2
 #### Passed: 18 tests
 #### Failed: 2 tests
 
+## How to discover : src---> components---> //each component has separate folder with .jsx .test and Readme file.
+
 #### Test Suites
 2 Integration Testings + 4 Unit Testings
 
